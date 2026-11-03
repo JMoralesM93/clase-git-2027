@@ -1,0 +1,3 @@
+Color favorito: azul
+Color favorito: Blanco
+Color favorito verde
